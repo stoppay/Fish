@@ -1,0 +1,46 @@
+/*
+* Skeleton V2.0.4
+* Copyright 2014, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 12/29/2014
+*/
+
+.boxer {
+   display: table;
+   border-collapse: collapse;
+}
+ 
+.boxer .box-row {
+   display: table-row;
+}
+ 
+.boxer .box {
+   display: table-cell;
+   width: 25px;
+	height: 25px;
+   text-align: left;
+   vertical-align: top;
+   border: 1px solid black;
+}
+
+.topbox {
+   display: table-cell;
+   width: 25px;
+   text-align: center;
+   vertical-align: middle;
+   border: 1px solid black;
+}
+
+.sidebox {
+   display: table-cell;
+   width: 25px;
+   text-align: left;
+   vertical-align: top;
+   border: 1px solid black;
+}
+
+.top_title{
+
+}
